@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9NoSXEMRT4VOeleLpfzRH8lV3WpZuwgSA5E10qOOeI73OLOTZ9+jXk0UHNwH4ANGA2Z+CNoRHMbZQ9qwNee+3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marag\\OneDrive\\Desktop\\TrueCode\\Repos\\TacoTake2\\TacoTake2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marag\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
